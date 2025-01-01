@@ -5,4 +5,6 @@ package com.hdk;
  * @CreateTime: 2025/1/1 23:29
  */
 public class student {
+    private String name;
+    private Integer age;
 }
