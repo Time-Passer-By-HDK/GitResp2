@@ -7,5 +7,5 @@ package com.hdk;
 public class person {
     private String personName;
     private String age ;
-
+    private String depth;
 }
